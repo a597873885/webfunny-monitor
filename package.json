@@ -1,0 +1,23 @@
+{
+  "name": "webfunny-monitor",
+  "version": "1.0.1",
+  "description": "前端错误监控安装包",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a597873885/webfunny-monitor.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "jeffery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a597873885/webfunny-monitor/issues"
+  },
+  "homepage": "https://github.com/a597873885/webfunny-monitor#readme"
+}
