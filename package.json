@@ -1,6 +1,6 @@
 {
   "name": "webfunny-monitor",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "前端错误监控安装包",
   "main": "index.js",
   "scripts": {
