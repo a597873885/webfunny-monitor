@@ -1,2 +1,2 @@
 # webfunny-monitor
-探针安装包
+专业版，H5探针安装包
